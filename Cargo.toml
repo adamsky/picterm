@@ -1,0 +1,9 @@
+[package]
+name = "picterm"
+version = "0.1.0"
+authors = ["Adam Adamsky <adamadamsky@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+ansi_term = "0.12.1"
+image = "0.22.3"
